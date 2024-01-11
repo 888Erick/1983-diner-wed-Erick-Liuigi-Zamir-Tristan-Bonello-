@@ -1,0 +1,58 @@
+body{
+    background-image: url("path/to/fnaf.jpeg");
+    opacity: 50%;
+    margin: 0;
+    padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a{
+    color: #aa60aa;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #e9c1e9;
+}
+
+.navbar-brand{
+    background-color: #e9c1e9;
+    color: #001323;
+    padding: .5em .75em;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.navbar-brand:hover{
+    background-color: #aa60aa;
+    color: #52697b;
+}
+
+.navbar{
+ background-color: #52697b;   
+ border-bottom: 1px solid #52697b;
+ padding: .5em;
+border-radius: 8px;
+}
+
+.navbar-nav{
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.navbar-nav li{
+    padding: .5em;
+    margin: 0 .5em;
+}
+
+.navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-item{
+    text-decoration: none;
+    color: #aa60aa;
+}
+
