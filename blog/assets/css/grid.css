@@ -49,16 +49,16 @@
 .container .row .col-7{
     width: calc(7/12 *100% - 1rem);
 }
-.container .row .col-5{
+.container .row .col-8{
     width: calc(8/12 *100% - 1rem);
 }
-.container .row .col-5{
+.container .row .col-9{
     width: calc(9/12 *100% - 1rem);
 }
-.container .row .col-5{
+.container .row .col-10{
     width: calc(10/12 *100% - 1rem);
 }
-.container .row .col-5{
+.container .row .col-11{
     width: calc(11/12 *100% - 1rem);
 }
 .container .row .col-12{
